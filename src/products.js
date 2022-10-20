@@ -128,7 +128,6 @@ export const products = [
     rating: "3",
     oldPrice: "1199",
     deliveryDate: "Monday",
-    ad: "sdfsdf",
   },
   {
     isFreeDelivery: false,
